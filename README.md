@@ -1,2 +1,0 @@
-# Atividades de LaTeX e Overleaf - Mulheres na Tecnologia
-Durante a Semana Nacional de Ciência e Tecnologia do Instituto Federal, criamos curso sobre a Semana das Mulheres, com destaque para Ada Lovelace. Ensinamos a criar uma conta no Overleaf, editar e inserir códigos, tabelas e imagens para criar artigos científicos. Este repositório reúne materiais para auxiliar nesse aprendizado como referência útil.
